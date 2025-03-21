@@ -27,7 +27,7 @@ pip install pandas streamlit python-dotenv tzlocal schedule pytz
 3.Configure Email Settings  
 
 - Rename `.env.example` to `.env`
-- 
+  
 - Add your email credentials and SMTP details  
 
 ## Usage
