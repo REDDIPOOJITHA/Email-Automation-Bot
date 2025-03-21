@@ -16,7 +16,7 @@ An automated email sender that supports single, bulk, and scheduled emails with 
 
 ## Installation
 
- 1. Clone the Repository
+1. Clone the Repository
 
    git clone <repository-url> cd Email-Automation-Bot
 
