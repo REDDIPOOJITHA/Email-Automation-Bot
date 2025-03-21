@@ -1,0 +1,12 @@
+Saved Attachments Folder
+
+This folder is used to store files that need to be sent as email attachments.
+
+How to Use:
+1. Manually place the files (PDFs, images, documents, spreadsheets, etc.) that need to be sent via email inside this folder.
+2. Ensure files are properly named for easy identification.
+3. Supported formats: `.pdf`, `.png`, `.jpg`, `.docx`, `.xlsx`, `.pptx`, `.txt`, etc.
+4. Do not delete this file. It serves as a placeholder to keep the folder visible in the repository.
+
+Note:
+- This folder is initially empty. You must manually add files before running the email automation script.
