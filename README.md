@@ -16,13 +16,13 @@ An automated email sender that supports single, bulk, and scheduled emails with 
 
 ## Installation
 
-1. Clone the Repository
+ 1. Clone the Repository
 
-git clone <repository-url> cd Email-Automation-Bot
+   git clone <repository-url> cd Email-Automation-Bot
 
-2.Install Dependencies  
+ 2.Install Dependencies  
 
-pip install pandas streamlit python-dotenv tzlocal schedule pytz
+   pip install pandas streamlit python-dotenv tzlocal schedule pytz
 
 3.Configure Email Settings  
 
@@ -32,9 +32,9 @@ pip install pandas streamlit python-dotenv tzlocal schedule pytz
 
 ## Usage
 
-To run the Streamlit application, execute: 
+  To run the Streamlit application, execute: 
 
-streamlit run final.py
+  streamlit run final.py
 
 
 ## Saving Attachments
